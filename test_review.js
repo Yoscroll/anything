@@ -8,7 +8,7 @@ var weaponChest=["Mace","Sorcerer's Stone","Excalibur"];
 
 var hero={
   wizard: "Merlin",
-  weapon: "Mace",
+  weapon: weaponChest[0],
   power: 49
 };
 
