@@ -1,4 +1,6 @@
-// Ian Acosta, 11/23/16, Javascript Test Review
+/*
+Ian Acosta, 11/23/16, Javascript Test Review
+*/
 
 var knight = "Arthur";
 var maiden = "Jane";
